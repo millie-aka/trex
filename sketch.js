@@ -132,7 +132,7 @@ function spawnObstacles(){
 function draw(){
   
     //background("#66FF66");
-    background("red");
+    background("purple");
   
    
     text("Score: "+score,500,50);
